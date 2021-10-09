@@ -175,3 +175,93 @@ body{
         
     }
 }
+
+
+
+.elin{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+.opl{
+    width: 80%;
+}
+.qop{
+    color: rgb(197, 72, 72);
+    font-size: 35px;
+}
+.pli{
+    width: 90%;
+    font-weight: 500;
+    font-size: 40px;
+    margin-top: 50px;
+    line-height: 50px;
+}
+.etol{
+    margin-top: 30px;
+    font-size: 18px;
+    width: 500px;
+    font-weight: 100;
+    line-height: 30px;
+}
+.caps{
+    margin-top: 30px;
+    font-size: 18px;
+    width: 500px;
+    font-weight: 100;
+    line-height: 30px;
+}
+.loop{
+    color: rgb(197, 72, 72);
+    border: none;
+    font-size: 23px;
+    font-weight: 800;
+    margin-top: 30px;
+    cursor: pointer;
+    
+
+}
+.polk{
+    font-size: 23px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.polk:hover{
+    transform: translatex(5px);
+    transition: .5s;
+}
+@media (max-width:715px){
+    .pli{
+        font-size: 26px;
+    }
+}
+@media (max-width:560px){
+    .etol{
+        width: 100%;
+    }
+    .caps{
+        width: 100%;
+    }
+    .elin{
+        margin-top: 10%;
+    }
+}
+.hool{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+
+}
+.hol{
+  width: 80%;
+}
+.tab{
+    width: 100%;
+    height: 100%;
+}
+@media (max-width:750px){
+    .tab{
+        height: 200%;
+    }
+}
