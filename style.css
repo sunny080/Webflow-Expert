@@ -157,7 +157,7 @@ body{
         margin-top: 0px;
     }
     .lit{
-        height: 30%;
+        height: 50%;
         width: 140%;
     }
     .wonl{
@@ -265,3 +265,443 @@ body{
         height: 200%;
     }
 }
+.idty{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+.wty{
+    width: 80%;
+    text-align: center;
+
+    justify-content: center;
+}
+.istr{
+    font-size: 150px;
+    color: rgb(197, 72, 72);
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    
+}
+.kolp{
+    font-size: 22px;
+    margin-top: -30px;
+    width: 710px;
+    line-height: 40px;
+   
+    
+    
+}
+.rote{
+    margin-top: 50px;
+}
+.wroi{
+    font-size: 20px;
+    margin-top: 40px;
+    font-weight: 100;
+    color: rgb(233, 227, 227);
+}
+.iplo{
+    font-size: 15px;
+
+    margin-top: 13px;
+}
+.lopit{
+    color:rgb(197, 72, 72); 
+    font-weight: 100;
+}
+@media (max-width:600px){
+    .kolp{
+        font-size: 18px;
+    }
+    .idty{
+        margin-top: 300px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.ipool{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 150px;
+}
+.ripo{
+    width: 80%;
+    display: flex;
+}
+.folo{
+    width: 50%;
+    padding-top: 100px;
+}
+.erop{
+    color: rgb(180, 84, 180);
+}
+.sunny{
+    margin-top: 50px;
+    font-size: 40px;
+    width: 90%;
+    line-height: 65px;
+    font-weight: 100;
+}
+.talha{
+    width:90% ;
+    margin-top: 30px;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 0;
+
+}
+.honey{
+    width:90% ;
+    margin-top: 30px;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 0;
+}
+.eglo{
+    margin-top: 40px;
+    border: none;
+    font-size: 20px;
+    font-weight: 900;
+    cursor: pointer;
+    color: rgb(180, 84, 180);
+}
+.flp{
+    color: rgb(180, 84, 180);
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 10px;
+
+}
+.flp:hover{
+    transform:translatex(5px);
+    transition: .5s;
+}
+.rilu{
+    width: 50%;
+}
+.mami{
+    width: 100%;
+    height: 90%;
+}
+
+@media (max-width:865px){
+    .ipool{
+        margin-top: 0;    
+      }
+    .ripo{
+        flex-direction: column;
+    }
+    .folo{
+        width: 100%;
+    }
+    .rilu{
+        width: 100%;
+        margin-top: 100px;
+    }
+}
+
+.qplo{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.sold{
+    width: 80%;
+    text-align: center;
+}
+.ritu{
+    font-size: 150px;
+    color: rgb(180, 84, 180);
+}
+.losty{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -30px;
+}
+.qont{
+    font-size: 20px;
+    font-weight: 500;
+    width: 60%;
+    line-height: 40px;
+}
+.fuli{
+    margin-top: 50px;
+}
+.ging{
+    margin-top: 30px;
+    font-size: 20px;
+    color: rgb(240, 236, 236);
+    font-weight:100 ;
+}
+.jimy{
+    margin-top: 20px;
+    font-size: 16px;
+
+}
+.tony{
+    color: rgb(180, 84, 180);
+    font-weight: 100;
+}
+
+
+@media (max-width:800px){
+    .qont{
+        width: 100%;
+    }
+}
+@media (max-width:550px){
+    .sunny{
+        font-size: 30px;
+        }
+}
+
+
+
+
+
+.chota{
+    width: 100%;
+    display: flex;
+    margin-top: 150px;
+    justify-content: center;
+}
+.chutki{
+    display: flex;
+    width: 80%;
+
+}
+.jagu{
+    width: 50%;
+
+}
+.kaliya{
+    width: 100%;
+    height: 100%;
+
+}
+.gami{
+    width: 50%;
+    padding-left: 50px;
+    padding-top: 80px;
+}
+.sliku{
+    font-size: 30px;
+    color: rgb(75, 189, 75);
+    font-weight: 700;
+}
+.flop{
+    font-size: 40px;
+    width: 90%;
+    margin-top: 40px;
+    line-height: 60px;
+    font-weight: 100;
+
+}
+.qpty{
+    font-size: 19px;
+    font-weight: 100;
+    width: 95%;
+    margin-top: 30px;
+    line-height: 30px;
+}
+.jmila{
+    font-size: 19px;
+    font-weight: 100;
+    width: 100%;
+    margin-top: 30px;
+    line-height: 30px;
+}
+.woputy{
+    border: none;
+    margin-top: 50px;
+    color: rgb(75, 189, 75);
+    font-size: 20px;
+    font-weight: 900;
+    cursor: pointer;
+}
+.slowlu{
+    cursor: pointer;
+    font-size: 20px;
+    color: rgb(75, 189, 75);
+
+   
+}
+.slowlu:hover{
+    transform: translatex(5px);
+    transition: .5s;
+}
+
+
+
+@media (max-width:870px) {
+    .chutki{
+        flex-direction: column-reverse;
+
+    }
+    .gami{
+        padding-left: 0;
+        width: 100%;
+        
+    }
+    .chota{
+        margin-top: 30px;
+    }
+    .jagu{
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    
+}
+
+
+.wong{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+
+.bhai{
+    width: 80%;
+}
+.toty{
+    color: rgb(255, 94, 0);
+    font-size: 30px;
+    font-weight: 700;
+}
+.boltp{
+    margin-top: 50px;
+    font-size: 40px;
+    font-weight: 100;
+    width: 90%;
+    line-height: 60px;
+}
+.jalia{
+    width: 48%;
+    line-height: 35px;
+    margin-top: 30px;
+    font-size: 19px;
+    font-weight: 0;
+
+}
+
+.dudi{
+    width: 48%;
+    line-height: 35px;
+    margin-top: 30px;
+    font-size: 19px;
+    font-weight: 0;
+}
+
+
+@media (max-width:850px){
+    .boltp{
+        width: 100%;
+        font-size:30px ;
+    }
+    .jalia{
+        width: 100%;
+
+    }
+    .dudi{
+        width: 100%;
+    }
+
+}
+@media (max-width:450px){
+    .boltp{
+        font-size: 25px;
+        
+    }
+}
+.hing{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+.fulip{
+    width: 80%;
+
+}
+.colu{
+    width: 100%;
+    height: 100%;
+}
+
+.sunhan{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.dadu{
+    width: 80%;
+    text-align: center;
+}
+.wlop{
+    color: rgb(255, 81, 0);
+    
+    font-size: 150px;
+}
+.lpluyy{
+     display: flex;
+     justify-content: center;
+     text-align: center;
+     padding-top: -100;
+     
+}
+.dplia{
+    width: 60%;
+    font-size:20px ;
+    line-height: 40px;
+    
+}
+.riop{
+    margin-top: 40px;
+}
+.golp{
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 100;
+    color: rgb(231, 230, 230);
+}
+.wkop{
+    font-size: 16px;
+    margin-top: 10px;
+
+}
+.pwlo{
+    font-weight: 100;
+    color: rgb(255, 81, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
