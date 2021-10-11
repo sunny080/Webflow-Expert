@@ -666,7 +666,7 @@ body{
      display: flex;
      justify-content: center;
      text-align: center;
-     padding-top: -100;
+     margin-top: -40px;
      
 }
 .dplia{
@@ -696,12 +696,257 @@ body{
 
 
 
+@media (max-width:890px) {
+    .dplia{
+        width: 100%;
+        font-weight: 0;
+        font-size: 18px;
+    }
+    
+}
+
+.gta{
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+}
+.grand{
+    width: 80%;
+    
+}
+.theft{
+    color: rgb(241, 181, 69);
+    font-size: 30px;
+    font-weight: 600;
+}
+.auto{
+    margin-top: 50px;
+    width: 80%;
+    font-size: 40px;
+    line-height: 60px;
+    font-weight: 100;
+}
+.saint{
+    width: 50%;
+    
+    margin-top: 40px;
+    font-size: 19px;
+    line-height: 30px;
+}
+.row{
+    width: 51%;
+    
+    margin-top: 40px;
+    font-size: 19px;
+    line-height: 30px;
+}
+@media (max-width:885px) {
+    .auto{
+        font-size: 35px;
+        width: 100%;
+    }
+    
+}
+@media (max-width:725px){
+    .saint{
+        width: 100%;
+    }
+    .row{
+        width: 100%;
+    }
+}
+@media (max-width:550px){
+    .auto{
+        font-size: 25px;
+    }
+}
 
 
+.ero{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 100px;
+}
+.high{
+    width: 80%;
+}
+.iplo{
+    width: 100%;
+    height: 100%;
+}
+.frank{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 100px;
+}
+.line{
+    width: 80%;
+    text-align: center;
+}
+.jupi{
+    font-size: 150px;
+    color: rgb(241, 181, 69);
 
 
+}
+.ter{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -40px;
+}
+.jungi{
+    width: 67%;
+    font-size: 22px;
+    line-height: 40px;
+
+}
+.ploto{
+    margin-top: 40px;
+ 
+}
+.plot{
+    margin-top: 30px;
+    color: rgb(219, 217, 217);
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.total{
+    margin-top: 30px;
+    font-size: 17px;
 
 
+}
+.bang{
+    font-weight: 100;
+    color: rgb(241, 181, 69);
+}
+@media (max-width:650px) {
+    .jungi{
+        width: 100%;
+    }
+    
 
 
+}
 
+.count{
+    display: flex;
+    margin-top: 150px;
+    justify-content: center;
+    width: 100%;
+}
+
+.strik{
+    width: 80%;
+}
+.zom{
+    font-size: 30px;
+    color: rgb(60, 60, 243);
+}
+.jerry{
+    margin-top: 50px;
+    font-size: 40px;
+    line-height: 60px;
+    width: 80%;
+    font-weight: 100;
+}
+.slik{
+    font-size: 18px;
+    line-height: 30px;
+    width: 46%;
+    margin-top: 40px;
+}
+.aslo{
+    font-size: 18px;
+    line-height: 30px;
+    width: 46%;
+    margin-top: 40px;
+}
+
+@media (max-width:740px) {
+    .jerry{
+        width: 100%;
+        font-size: 25px;
+    }
+    .slik{
+        width: 100%;
+    }
+    .aslo{
+        width: 100%;
+    }
+
+    
+}
+
+
+.santo{
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.vegass{
+    width: 80%;
+    text-align: center;
+}
+.bhot{
+    width: 100%;
+    height: 100%;
+}
+
+.jani{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+.gazal{
+    width: 80%;
+    text-align: center;
+
+}
+.break{
+    font-size: 150px;
+    color: rgb(101, 101, 240);
+}
+.bunk{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -30px;
+}
+.dikar{
+    width:66%;
+    font-size: 22px;
+    line-height: 40px;
+}
+.lol{
+    margin-top: 40px;
+}
+.eran{
+    margin-top: 30px;
+    color: rgb(211, 207, 207);
+    font-size: 19px;
+    font-weight:600 ;
+}
+.bhsi{
+    margin-top: 25px;
+    font-size: 17px;
+
+}
+.lip{
+    font-weight: 100;
+    color: rgb(101, 101, 240);
+
+}
+@media (max-width:610px) {
+    .dikar{
+        width: 100%;
+    }
+    
+}
