@@ -1381,3 +1381,15 @@ a{
     border-bottom: 4px solid rgb(8, 238, 188) ;
     transition: .3s;
 }
+@media (max-width:690px) {
+    .jlop{
+        font-size: 30px;
+        width: 100%;
+    }
+    
+}
+@media (max-width:530px){
+    .jlop{
+        font-size: 20px;
+    }
+}
