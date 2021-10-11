@@ -950,3 +950,190 @@ body{
     }
     
 }
+.dopli{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.alok{
+    width: 80%;
+    margin-top: 20px;
+    font-size: 23px;
+    font-weight: 800;
+}
+.boli{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.shona{
+    width: 80%;
+    display: flex;
+
+}
+.shonu{
+    width: 60%;
+}
+.slpi{
+    color: rgb(8, 238, 188);
+}
+.shogan{
+    margin-top: 40px;
+    font-size: 40px;
+    font-weight: 100;
+    line-height: 60px;
+}
+.bip{
+    margin-top: 40px;
+    font-size: 18px;
+    width: 78%;
+    line-height: 30px;
+}
+.bop{
+    margin-top: 40px;
+    font-size: 18px;
+    width: 78%;
+    line-height: 30px;
+}
+.shoni{
+    width: 40%;
+    
+}
+.hing{
+    width: 80%;
+    height: 60%;
+    text-align: center;
+    
+}
+
+
+.loki{
+    display: flex;
+    margin-top: 40px;
+}
+.small{
+    margin-left: 150px;
+}
+.young{
+    display: flex;
+
+}
+.bhpol{
+    margin-top: 20px;
+    display: flex;
+}
+.ynung{
+    display: flex;
+}
+.itri{
+    display: flex;
+    margin-top: 20px
+}
+
+
+
+
+.topo{
+    color: rgb(8, 238, 188);
+    background-color:rgb(8, 238, 188) ;
+    border-radius: 50px;
+    
+}
+
+.topl{
+    color: rgb(8, 238, 188);
+    background-color:rgb(8, 238, 188) ;
+    border-radius: 50px;
+
+}
+.topk{
+    color: rgb(8, 238, 188);
+    background-color:rgb(8, 238, 188) ;
+    border-radius: 50px;
+}
+
+
+.tplo{
+    margin-left: 10px;
+}
+
+.topd{
+    color: rgb(8, 238, 188);
+    background-color:rgb(8, 238, 188) ;
+    border-radius: 50px;
+}
+.tpls{
+    margin-left: 10px;
+}
+
+
+
+ 
+
+
+
+@media (max-width:940px) {
+    .shona{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .shoni{
+        margin-top: -0px;
+        
+    }
+    .hing{
+        margin-top: 0px;
+        width: 300px;
+        height: 200px;
+    }
+    .shonu{
+        width: 100%;
+        margin-top: 50px;
+
+    }
+    .slpi{
+        font-size: 25px;
+    }
+    .shogan{
+        font-size: 28px;
+        font-weight: 100;
+    }
+    
+}
+@media (max-width:600px){
+    .bip{
+        width: 100%;
+    
+    }
+    .bop{
+        width: 100%;
+    }
+    .young{
+        display: flex;
+        flex-direction: column;
+    }
+} 
+@media (max-width:640px){
+    .loki{
+        flex-direction: column;
+        width: 100%;
+    }
+    .tplo{
+        margin-left: 10px;
+    }
+    .small{
+        margin-left: 0;
+
+    }
+    .topl{
+        margin-bottom: 20px;
+    }
+    .tpls{
+        margin-left: 26px;
+        margin-top: -16px;
+    }
+    .topd{
+        margin-top: 20px;
+    }
+}
