@@ -1320,6 +1320,11 @@ a{
     cursor: pointer;
 
 }
+.jony:hover{
+    transform: translatex(10px);
+    transition: .5s;
+
+}
 @media (max-width:770px) {
     .longer{
         display: flex;
@@ -1351,4 +1356,28 @@ a{
         width: 100%;
         font-size: 28px;
     }
+}
+.mail{
+    margin-top: 130px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.gmail{
+    width: 80%;
+}
+.jlop{
+    font-size: 40px;
+    width: 80%;
+    line-height: 60px;
+}
+.crono{
+    color: rgb(8, 238, 188);
+    padding-bottom: 5px;
+    
+    
+}
+.crono:hover{
+    border-bottom: 4px solid rgb(8, 238, 188) ;
+    transition: .3s;
 }
