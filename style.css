@@ -158,8 +158,9 @@ body{
         margin-top: 0px;
     }
     .lit{
-        height: 50%;
-        width: 140%;
+        margin-top: -20px;
+        width: 160%;
+        margin-left: -50px;
     }
     .wonl{
         font-size: 25px;
