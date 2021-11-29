@@ -264,7 +264,7 @@ body{
 }
 @media (max-width:750px){
     .tab{
-        height: 200%;
+        height: 130%;
     }
 }
 .idty{
@@ -321,6 +321,8 @@ body{
     .idty{
         margin-top: 300px;
     }
+    .istr{
+         margin-top:-140px;
 }
 
 
